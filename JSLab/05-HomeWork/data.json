@@ -1,0 +1,27 @@
+[
+    {
+        "name": "商品名稱1",
+        "imgUrl": "https://picsum.photos/300/200/?random=10",
+        "content": "商品內文"
+    },
+    {
+        "name": "商品名稱2",
+        "imgUrl": "https://picsum.photos/300/200/?random=20",
+        "content": "商品內文"
+    },
+    {
+        "name": "商品名稱3",
+        "imgUrl": "https://picsum.photos/300/200/?random=30",
+        "content": "商品內文"
+    },
+    {
+        "name": "商品名稱4",
+        "imgUrl": "https://picsum.photos/300/200/?random=40",
+        "content": "商品內文"
+    },
+    {
+        "name": "商品名稱5",
+        "imgUrl": "https://picsum.photos/300/200/?random=50",
+        "content": "商品內文"
+    }
+]
